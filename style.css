@@ -574,7 +574,7 @@ h3 {
 }
 
 .input-field {
-    width: 300px;
+    width: 320px;
     height: 55px;
     background: transparent;
     border: 2px solid #AAA;
@@ -584,7 +584,7 @@ h3 {
 }
 
 textarea {
-    width: 300px;
+    width: 320px;
     height: 250px;
     background: transparent;
     border: 2px solid #AAA;
