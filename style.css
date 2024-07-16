@@ -224,7 +224,7 @@ nav {
     background: var(--third-color);
     color: var(--color-white);
     padding: 3px 8px;
-    font-size: 18px;
+    font-size: 20px;
     border-radius: 5px;
 }
 
@@ -297,17 +297,17 @@ nav {
     display: flex;
     justify-content: right;
     align-content: center;
-    min-height: 80vh;
+    min-height: 100vh;
     width: 50%;
 }
 
 .image {
     margin: auto 0;
-    width: 380px;
-    height: 380px;
-    border-radius: 55% 45% 55% 45%;
+    width: 410px;
+    height: 410px;
+    border-radius: 55% 55% 55% 55%;
     overflow: hidden;
-    animation: imgFloat 7s ease-in-out infinite;
+    animation: imgFloat 8s ease-in-out infinite;
 }
 
 .image img {
