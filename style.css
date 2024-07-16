@@ -568,7 +568,7 @@ h3 {
 .form-inputs {
     display: flex;
     gap: 10px;
-    width: 180%;
+    width: 350px;
 }
 
 .input-field {
@@ -582,7 +582,7 @@ h3 {
 }
 
 textarea {
-    width: 180%;
+    width: 350px;
     height: 250px;
     background: transparent;
     border: 2px solid #AAA;
@@ -623,7 +623,7 @@ footer {
 }
 
 .top-footer p {
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 600;
 }
 
