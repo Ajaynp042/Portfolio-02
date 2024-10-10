@@ -63,7 +63,7 @@ html {
 .btn {
     font-weight: 500;
     padding: 12px 20px;
-    background: #efefef;
+    background: #ffebeb;
     border: none;
     border-radius: 10px;
     cursor: pointer;
@@ -158,6 +158,7 @@ nav {
 
 .nav_list:hover .nav-link {
     color: blue;
+    opacity: 1;
 }
 
 .nav-menu-btn {
@@ -643,6 +644,10 @@ footer {
     color: var(--text-color-second);
     font-weight: 500;
     margin-inline: 20px;
+}
+
+.footer_menu_list a:hover {
+    color: blue;
 }
 
 .footer-social-icons {
